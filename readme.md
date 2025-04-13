@@ -21,7 +21,6 @@ To set up a TypeScript project from scratch:
     /src
     └── index.ts
     tsconfig.json
-    Compile with:
 
 5. Compile with:
     ```bash
